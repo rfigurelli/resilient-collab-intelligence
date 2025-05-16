@@ -16,6 +16,8 @@ Through comparative evaluations, we demonstrate that systems incorporating adapt
 
 This white paper is a call to action for developers, policy-makers, researchers, and designers to co-create infrastructures that enable resilient and amplified intelligence across human-machine ecosystems \[6].
 
+![Architecture Diagram](Amplifying_Intelligence.png)
+
 ## Full Version
 
 [Read the full white paper](https://github.com/rfigurelli/resilient-collab-intelligence/blob/main/Amplifying_Intelligence_White_Paper_v1_0.md)
